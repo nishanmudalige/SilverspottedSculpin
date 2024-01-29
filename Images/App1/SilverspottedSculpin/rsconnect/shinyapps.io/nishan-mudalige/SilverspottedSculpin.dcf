@@ -1,0 +1,13 @@
+name: SilverspottedSculpin
+title: SilverspottedSculpin
+username: nishan-mudalige
+account: nishan-mudalige
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11057379
+bundleId: 8193357
+url: https://nishan-mudalige.shinyapps.io/SilverspottedSculpin/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 1.jpg|2.jpg|3.jpg|adult.jpg
